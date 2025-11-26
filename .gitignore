@@ -1,0 +1,15 @@
+```python
+// filepath: /home/chyuanduh/se_learning/.gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env
+
+# Editor/IDE
+.vscode/
+.idea/
